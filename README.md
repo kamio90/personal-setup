@@ -14,6 +14,8 @@
 - Terminal: [ITerm2](https://iterm2.com/)
 - Browser: [Arc](https://arc.net/)
 - Docker: [Docker Desktop](https://www.docker.com/products/docker-desktop/)
+- Node: [nvm](https://github.com/nvm-sh/nvm)
+- Package Manager: [pnpm](https://pnpm.io/)
 
 ## Personal Apps
 
